@@ -1,0 +1,14 @@
+
+[2025-03-05 18:18:37] Model Selection Summary:
+- Logistic Regression Accuracy: 55%
+- Random Forest Accuracy: 53%
+- XGBoost Accuracy: 51%
+- Random Forest was selected as the final model for deployment, as it shows the best balance between Precision and Recall.
+
+
+[2025-03-05 18:53:25] Model Selection Summary:
+- Logistic Regression Accuracy: 55%
+- Random Forest Accuracy: 53%
+- XGBoost Accuracy: 51%
+- Random Forest was selected as the final model for deployment, as it shows the best balance between Precision and Recall.
+
