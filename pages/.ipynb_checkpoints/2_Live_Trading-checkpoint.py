@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.graph_objects as go
 
 # Define file path for processed data
-file_path = "/Users/robertkoegel/Python_for_Data_Analysis_II/Group_project/data/processed_data.csv"
-file_path_ml = "/Users/robertkoegel/Python_for_Data_Analysis_II/Group_project/data/ml_predictions.csv"
+file_path = "data/processed_data.csv"
+file_path_ml = "data/ml_predictions.csv"
 # Load data
 @st.cache_data
 def load_data():
