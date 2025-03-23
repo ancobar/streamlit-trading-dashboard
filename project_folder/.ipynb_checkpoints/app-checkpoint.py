@@ -14,4 +14,4 @@ st.sidebar.page_link("pages/3_About_ML.py", label="🧠 ML Model Explanation")
 st.sidebar.page_link("pages/4_Backtesting.py", label="🔄 Backtesting Simulator")
 
 st.sidebar.markdown("---")
-st.sidebar.write("Developed by [Your Team Name]")
+st.sidebar.write("Developed by Group 2")
