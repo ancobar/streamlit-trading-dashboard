@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 # Load processed data
-file_path = "/Users/robertkoegel/Python_for_Data_Analysis_II/Group_project/processed_data_enhanced.csv"
+file_path = "/Users/robertkoegel/Python_for_Data_Analysis_II/Group_project/data/processed_data_enhanced.csv"
 df = pd.read_csv(file_path, parse_dates=["Date"])
 
 # Page title

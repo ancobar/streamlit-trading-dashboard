@@ -16,7 +16,7 @@ Let's see how it would have done!
 """)
 
 # Load prediction data
-file_path_ml = "/Users/robertkoegel/Python_for_Data_Analysis_II/Group_project/ml_predictions.csv"
+file_path_ml = "/Users/robertkoegel/Python_for_Data_Analysis_II/Group_project/data/ml_predictions.csv"
 @st.cache_data
 def load_predictions():
     return pd.read_csv(file_path_ml, parse_dates=["Date"])
