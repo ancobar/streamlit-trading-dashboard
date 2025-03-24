@@ -63,11 +63,11 @@ Python_Group_Project/
 ### Authors
 
 **Group 2**  
-*Ana Cortés*
-*Hiromitsu Fujiyama*
-*Robert Koegel*
-*Tomás Luz*
-*Tomas Valbuena*
+- Ana Cortés
+- Hiromitsu Fujiyama
+- Robert Koegel
+- Tomás Luz
+- Tomas Valbuena
 
 > *This project was developed as part of the Python for Data Analysis II course at IE University.*
 
