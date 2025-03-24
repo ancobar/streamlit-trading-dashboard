@@ -42,8 +42,8 @@ performance_data = {
     "Model": ["Logistic Regression", "Random Forest", "XGBoost"],
     "Accuracy": [0.55, 0.53, 0.51],
     "Precision": [0.54, 0.52, 0.52],
-    "Recall": [0.52, 0.51, 0.52],
-    "F1-score": [0.53, 0.51, 0.52]
+    "Recall": [0.55, 0.53, 0.51],
+    "F1-score": [0.48, 0.51, 0.51]
 }
 performance_df = pd.DataFrame(performance_data)
 st.table(performance_df)
