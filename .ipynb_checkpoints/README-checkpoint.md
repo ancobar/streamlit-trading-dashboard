@@ -60,20 +60,6 @@ Python_Group_Project/
 
 ---
 
-## Installation & Setup
-
-### Prerequisites
-Make sure you have Python ≥ 3.9 installed.
-
-### Clone & Run
-```bash
-git clone https://github.com/roko020801/Python_Group_Project.git
-cd Python_Group_Project
-pip install -r requirements.txt
-streamlit run app.py
-
----
-
 ### Authors
 
 **Group 2**  
@@ -94,3 +80,17 @@ The application is deployed on **Streamlit Cloud** and can be accessed at the fo
 [Live Web App](https://pythongroupproject-9gypnjexs7mwdygigsyg8x.streamlit.app)
 
 > The app runs entirely in the browser — no installation required.
+
+---
+
+## Installation & Setup
+
+### Prerequisites
+Make sure you have Python ≥ 3.9 installed.
+
+### Clone & Run
+```bash
+git clone https://github.com/roko020801/Python_Group_Project.git
+cd Python_Group_Project
+pip install -r requirements.txt
+streamlit run app.py
